@@ -39,8 +39,6 @@ Profesionales de la salud autónomos y pacientes con y sin obra social.
 
 ---
 
-*Este proyecto está en desarrollo. Si tienes sugerencias o deseas contribuir, ¡no dudes en contactarnos!*
-
 ## Colaboradores:
 
 - Ayrton Jofre
